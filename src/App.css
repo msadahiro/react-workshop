@@ -83,3 +83,7 @@
   transition: .5s;
   font-size: 25px;
 }
+
+.header{
+  margin: 10px;
+}
